@@ -1,5 +1,5 @@
 - 👋 Hello, I’m @M-rog
-- 🌱 I’m currently an engineer with a mechanical background learning full-stack web development through online coursework, with an emphasis on front-end. 
+- 🌱 I’m currently an engineer with a mechanical background learning Software Development and love it! I thoroughly enjoy writing code and solving programming problems through logic and analysis. 
 
 
 <!-- - 👀 I’m looking to fully pivot my career into the software engineering world, which I have developed a passion for and truly enjoy putting the puzzle pieces of code together.--> 
